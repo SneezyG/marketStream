@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: stock-alert-service
+
 server:
   port: 8080
 
