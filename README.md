@@ -2,7 +2,7 @@
 
 A backend service that listens to real-time stock market data and notifies users when their target price conditions are met. Built with **Java + Spring Boot**, it integrates with live financial data streams and supports email notifications.  
 
-## [See Stock Alert Service Code Repo](https://github.com/SneezyG/marketStream)  
+## [See marketStream Code Repo](https://github.com/SneezyG/marketStream)  
 
 ---
 
